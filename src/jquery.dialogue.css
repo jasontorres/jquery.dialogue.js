@@ -1,3 +1,8 @@
+/*
+ *  Original Source:  http://thrivingkings.com/apprise
+ *  with some additions.
+ */
+
 .dialogueOverlay {
 	position: fixed;
 	top: 0;
@@ -21,7 +26,7 @@
 	min-width: 200px;
 	min-height: 50px;
 	max-width: 75%;
-	/*position: fixed;*/
+	position: fixed;
 	display: none;
 }
 

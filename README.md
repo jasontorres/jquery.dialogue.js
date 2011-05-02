@@ -38,14 +38,14 @@ More Examples
     });
 
 
-Themes
--------
-Coming soon!
-
 
 ### Alert from an element's content
 
     $.dialogue.alert($('#somediv')); 
+
+Themes
+-------
+Coming soon!
 
 
 Ruby on Rails?
@@ -82,7 +82,7 @@ Not a problem! Just find and override your rails.js w/ this code. If someone els
 
 Contributing
 ------------
-Want to contribute? Great! There are two ways to add markups.
+Want to contribute? Great! Don't hesitate :D
 
 
 License
@@ -92,7 +92,7 @@ MIT
 
 Credits
 ------------
-Most credits go to http://thrivingkings.com/apprise for the Initial Code and the CSS. We're using it on our app and we've been improving and refactoring it eventually rewriting everything again from scratch.
+Most credits go to http://thrivingkings.com/apprise for the initial code and the CSS. We're using it on our app and we've been improving and refactoring it eventually rewriting everything again from scratch.
 
 
 Others
