@@ -37,6 +37,10 @@ More Examples
 
     });
 
+### Alert from an element's content
+
+    $.dialogue.alert($('#somediv')); 
+
 
 Ruby on Rails?
 -------
