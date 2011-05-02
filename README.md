@@ -37,6 +37,12 @@ More Examples
 
     });
 
+
+Themes
+-------
+Coming soon!
+
+
 ### Alert from an element's content
 
     $.dialogue.alert($('#somediv')); 
